@@ -1,0 +1,876 @@
+.eating-disorder-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url('https://wallpaperset.com/w/full/6/1/2/190995.jpg');
+}
+.eating-disorder-container01 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container02 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container04 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container05 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container06 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container07 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container08 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container09 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container10 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container11 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container12 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container13 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-navbar {
+  top: 0;
+  width: 100%;
+  display: flex;
+  z-index: 1000;
+  position: fixed;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-pallet-green);
+}
+.eating-disorder-header {
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: space-between;
+}
+.eating-disorder-navbar1 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+}
+.eating-disorder-container14 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.eating-disorder-middle {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.eating-disorder-left {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  grid-gap: 45px;
+  position: relative;
+  align-items: flex-start;
+}
+.eating-disorder-logo-center {
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-sixunits);
+}
+.eating-disorder-right {
+  display: flex;
+  grid-gap: 45px;
+  position: relative;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-sixunits);
+  justify-content: flex-end;
+}
+.eating-disorder-text {
+  margin-left: var(--dl-space-space-sixunits);
+  text-decoration: none;
+}
+.eating-disorder-text01 {
+  text-decoration: none;
+}
+.eating-disorder-icons {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+}
+.eating-disorder-burger-menu {
+  display: none;
+}
+.eating-disorder-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  display: none;
+}
+.eating-disorder-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  transform: translateX(100%);
+  transition: 0.3s;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.eating-disorder-nav {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.eating-disorder-container15 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.eating-disorder-logo-center1 {
+  color: var(--dl-color-gray-black);
+  height: auto;
+  font-size: 24px;
+  font-family: Jost;
+  font-weight: 500;
+  line-height: 20px;
+  margin-left: var(--dl-space-space-fourunits);
+  margin-right: var(--dl-space-space-fourunits);
+  letter-spacing: 0.4em;
+  text-decoration: none;
+}
+.eating-disorder-close-mobile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.eating-disorder-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.eating-disorder-middle1 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.eating-disorder-text02 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  text-decoration: none;
+}
+.eating-disorder-text03 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  text-decoration: none;
+}
+.eating-disorder-text04 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  text-decoration: none;
+}
+.eating-disorder-text05 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  text-decoration: none;
+}
+.eating-disorder-text06 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  text-decoration: none;
+}
+.eating-disorder-text07 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 13px;
+  text-align: left;
+  font-family: Jost;
+  font-weight: 500;
+  text-decoration: none;
+}
+.eating-disorder-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.eating-disorder-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.eating-disorder-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.eating-disorder-container16 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 129px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-container17 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.eating-disorder-text08 {
+  font-style: normal;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.eating-disorder-container18 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.eating-disorder-banner {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.eating-disorder-text09 {
+  color: var(--dl-color-gray-white);
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  margin-bottom: var(--dl-space-space-twounits);
+  background-image: linear-gradient(to right, #c02425 0%, #f0cb35 100%);
+}
+.eating-disorder-steps {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+  background-color: #D9D9D9;
+}
+.eating-disorder-container19 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.eating-disorder-step {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.eating-disorder-container20 {
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text23 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text24 {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text27 {
+  color: var(--dl-color-gray-500);
+  font-size: 0.75rem;
+  text-align: match-parent;
+}
+.eating-disorder-step1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.eating-disorder-container21 {
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text37 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text38 {
+  text-align: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text41 {
+  color: var(--dl-color-gray-500);
+  font-size: 0.75rem;
+  text-align: center;
+}
+.eating-disorder-step2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.eating-disorder-container22 {
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text46 {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.eating-disorder-text51 {
+  color: var(--dl-color-gray-500);
+  font-size: 0.75rem;
+  text-align: center;
+}
+.eating-disorder-step3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.eating-disorder-container23 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: 2px;
+  padding-right: 2px;
+  flex-direction: row;
+  justify-content: center;
+}
+.eating-disorder-line {
+  flex: 1;
+  height: 0px;
+  display: flex;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-900);
+  border-style: dashed;
+  border-width: 2px;
+  flex-direction: row;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.eating-disorder-line1 {
+  flex: 1;
+  height: 0px;
+  display: flex;
+  align-items: flex-start;
+  border-color: transparent;
+  border-style: dashed;
+  border-width: 2px;
+  flex-direction: row;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.eating-disorder-image {
+  width: 237px;
+  height: 154px;
+  object-fit: cover;
+}
+@media(max-width: 1600px) {
+  .eating-disorder-container {
+    box-shadow: 5px 5px 10px 0px #d4d4d4;
+    background-size: cover;
+    background-image: url('https://wallpaperset.com/w/full/6/1/2/190995.jpg');
+  }
+  .eating-disorder-header {
+    width: 1379px;
+    height: 67px;
+  }
+  .eating-disorder-container17 {
+    width: 485px;
+    height: 294px;
+  }
+  .eating-disorder-text08 {
+    color: var(--dl-color-gray-black);
+    font-style: normal;
+    font-weight: 800;
+    text-transform: uppercase;
+    background-color: var(--dl-color-pallet-yellow);
+  }
+  .eating-disorder-banner {
+    height: 604px;
+  }
+  .eating-disorder-text09 {
+    color: var(--dl-color-gray-white);
+    align-self: center;
+    background-image: linear-gradient(135deg, rgb(192, 36, 37) 0%, rgb(240, 203, 53) 100%);
+  }
+  .eating-disorder-steps {
+    height: 305px;
+    padding: var(--dl-space-space-twounits);
+    align-self: center;
+    background-color: var(--dl-color-gray-white);
+  }
+  .eating-disorder-text23 {
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .eating-disorder-text27 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .eating-disorder-text37 {
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .eating-disorder-text41 {
+    color: var(--dl-color-gray-black);
+    font-style: normal;
+    font-weight: 600;
+  }
+  .eating-disorder-text46 {
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .eating-disorder-text51 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .eating-disorder-image {
+    width: 598px;
+    height: 284px;
+  }
+}
+@media(max-width: 1200px) {
+  .eating-disorder-container {
+    background-size: cover;
+    background-image: url('https://wallpaperset.com/w/full/6/1/2/190995.jpg');
+  }
+  .eating-disorder-header {
+    width: 100%;
+    height: 84px;
+  }
+  .eating-disorder-text09 {
+    color: var(--dl-color-gray-white);
+    background-image: linear-gradient(135deg, rgb(192, 36, 37) 0%, rgb(240, 203, 53) 100%);
+  }
+  .eating-disorder-container20 {
+    position: relative;
+  }
+  .eating-disorder-text27 {
+    color: var(--dl-color-gray-black);
+    right: -24px;
+    bottom: -130px;
+    position: absolute;
+  }
+  .eating-disorder-text29 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+  }
+  .eating-disorder-text31 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+  }
+  .eating-disorder-text33 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+  }
+  .eating-disorder-text35 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+  }
+  .eating-disorder-text41 {
+    color: var(--dl-color-gray-black);
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .eating-disorder-container22 {
+    position: relative;
+  }
+  .eating-disorder-text51 {
+    left: -12px;
+    color: var(--dl-color-gray-black);
+    bottom: -197px;
+    position: absolute;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 600;
+  }
+}
+@media(max-width: 991px) {
+  .eating-disorder-container {
+    background-image: url('https://wallpaperset.com/w/full/6/1/2/190995.jpg');
+  }
+  .eating-disorder-container14 {
+    display: none;
+  }
+  .eating-disorder-left {
+    display: none;
+  }
+  .eating-disorder-right {
+    display: none;
+  }
+  .eating-disorder-icons {
+    display: none;
+  }
+  .eating-disorder-burger-menu {
+    display: flex;
+  }
+  .eating-disorder-icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+  }
+  .eating-disorder-logo-center1 {
+    margin-left: 0px;
+  }
+  .eating-disorder-text09 {
+    max-width: 100%;
+  }
+}
+@media(max-width: 767px) {
+  .eating-disorder-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .eating-disorder-middle1 {
+    gap: var(--dl-space-space-unit);
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+    flex-direction: column;
+  }
+  .eating-disorder-banner {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-text09 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .eating-disorder-steps {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-container19 {
+    align-items: flex-start;
+    padding-left: var(--dl-space-space-fiveunits);
+    flex-direction: column;
+  }
+  .eating-disorder-step {
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .eating-disorder-container20 {
+    width: 100%;
+    align-items: flex-start;
+    padding-top: var(--dl-space-space-twounits);
+    flex-direction: column;
+    padding-bottom: var(--dl-space-space-twounits);
+    justify-content: space-between;
+  }
+  .eating-disorder-text23 {
+    margin-top: var(--dl-space-space-twounits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .eating-disorder-text24 {
+    margin-top: var(--dl-space-space-twounits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .eating-disorder-text27 {
+    text-align: left;
+  }
+  .eating-disorder-step1 {
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .eating-disorder-container21 {
+    width: 100%;
+    align-items: flex-start;
+    padding-top: var(--dl-space-space-twounits);
+    flex-direction: column;
+    padding-bottom: var(--dl-space-space-twounits);
+    justify-content: space-between;
+  }
+  .eating-disorder-text37 {
+    margin-top: var(--dl-space-space-twounits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .eating-disorder-text38 {
+    margin-top: var(--dl-space-space-twounits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .eating-disorder-text41 {
+    text-align: left;
+  }
+  .eating-disorder-step2 {
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .eating-disorder-container22 {
+    width: 100%;
+    align-items: flex-start;
+    padding-top: var(--dl-space-space-twounits);
+    flex-direction: column;
+    padding-bottom: var(--dl-space-space-twounits);
+    justify-content: space-between;
+  }
+  .eating-disorder-text46 {
+    margin-top: var(--dl-space-space-twounits);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .eating-disorder-text51 {
+    text-align: left;
+  }
+  .eating-disorder-step3 {
+    width: 100%;
+    height: auto;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .eating-disorder-container23 {
+    width: var(--dl-size-size-small);
+    height: auto;
+    align-self: stretch;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    flex-direction: column;
+    padding-bottom: 2px;
+    justify-content: space-between;
+  }
+  .eating-disorder-line {
+    border-top-width: 0px;
+    border-left-width: 2px;
+  }
+  .eating-disorder-line1 {
+    border-color: transparent;
+    border-style: dashed;
+    border-top-width: 0px;
+    border-left-width: 2px;
+  }
+}
+@media(max-width: 479px) {
+  .eating-disorder-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .eating-disorder-mobile-menu {
+    padding: 16px;
+  }
+  .eating-disorder-banner {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-steps {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-container19 {
+    padding-left: 0px;
+  }
+  .eating-disorder-container20 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: 0px;
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-text23 {
+    margin-left: 0px;
+    margin-right: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-text24 {
+    margin-left: 0px;
+    margin-right: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-container21 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: 0px;
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-text37 {
+    margin-left: 0px;
+    margin-right: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-text38 {
+    margin-left: 0px;
+    margin-right: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-container22 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: 0px;
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .eating-disorder-text46 {
+    margin-left: 0px;
+    margin-right: var(--dl-space-space-twounits);
+  }
+}
